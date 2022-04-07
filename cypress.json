@@ -1,0 +1,6 @@
+{
+    "defaultCommandTimeout": 10000,
+    "env": {
+      "url": "https://hello.friday.de/quote/selectPrecondition"
+    }
+}
